@@ -1,0 +1,192 @@
+{
+  "contacts": {
+    "contact1": {
+      "email": "bac.nguyen@tlu.edu.vn",
+      "name": "Nguyễn Văn Bắc",
+      "phone": "0321349213",
+      "position": "Trưởng Khoa",
+      "unit": "Khoa Công Nghệ Thông Tin"
+    },
+    "contact10": {
+      "email": "tuan.do@tlu.edu.vn",
+      "name": "Đỗ Văn Tuấn",
+      "phone": "0910123456",
+      "position": "Trưởng Phòng",
+      "unit": "Phòng Đào Tạo"
+    },
+    "contact11": {
+      "email": "mai.nguyen@tlu.edu.vn",
+      "name": "Nguyễn Thị Mai",
+      "phone": "0911234567",
+      "position": "Phó Phòng",
+      "unit": "Phòng Đào Tạo"
+    },
+    "contact12": {
+      "email": "duc.tran@tlu.edu.vn",
+      "name": "Trần Văn Đức",
+      "phone": "0912345678",
+      "position": "Chuyên Viên",
+      "unit": "Phòng Đào Tạo"
+    },
+    "contact13": {
+      "email": "quang.le@tlu.edu.vn",
+      "name": "Lê Văn Quang",
+      "phone": "0913456789",
+      "position": "Trưởng Phòng",
+      "unit": "Phòng Quản Trị"
+    },
+    "contact14": {
+      "email": "hanh.pham@tlu.edu.vn",
+      "name": "Phạm Thị Hạnh",
+      "phone": "0914567890",
+      "position": "Phó Phòng",
+      "unit": "Phòng Quản Trị"
+    },
+    "contact15": {
+      "email": "thanh.hoang@tlu.edu.vn",
+      "name": "Hoàng Văn Thành",
+      "phone": "0915678901",
+      "position": "Nhân Viên",
+      "unit": "Phòng Quản Trị"
+    },
+    "contact16": {
+      "email": "huong.vu@tlu.edu.vn",
+      "name": "Vũ Thị Hương",
+      "phone": "0916789012",
+      "position": "Giám Đốc Thư Viện",
+      "unit": "Thư Viện Trung Tâm"
+    },
+    "contact17": {
+      "email": "minh.nguyen@tlu.edu.vn",
+      "name": "Nguyễn Đức Minh",
+      "phone": "0917890123",
+      "position": "Phó Giám Đốc",
+      "unit": "Thư Viện Trung Tâm"
+    },
+    "contact18": {
+      "email": "thuy.tran@tlu.edu.vn",
+      "name": "Trần Thị Thúy",
+      "phone": "0918901234",
+      "position": "Thủ Thư Chính",
+      "unit": "Thư Viện Trung Tâm"
+    },
+    "contact2": {
+      "email": "bich.tran@tlu.edu.vn",
+      "name": "Trần Thị Bích",
+      "phone": "0902345678",
+      "position": "Phó Khoa",
+      "unit": "Khoa Công Nghệ Thông Tin"
+    },
+    "contact3": {
+      "email": "cuong.le@tlu.edu.vn",
+      "name": "Lê Văn Cường",
+      "phone": "0903456789",
+      "position": "Giảng Viên Chính",
+      "unit": "Khoa Công Nghệ Thông Tin"
+    },
+    "contact4": {
+      "email": "dung.pham@tlu.edu.vn",
+      "name": "Phạm Văn Dũng",
+      "phone": "0904567890",
+      "position": "Trưởng Khoa",
+      "unit": "Khoa Xây Dựng"
+    },
+    "contact5": {
+      "email": "huong.hoang@tlu.edu.vn",
+      "name": "Hoàng Thị Hương",
+      "phone": "0905678901",
+      "position": "Phó Khoa",
+      "unit": "Khoa Xây Dựng"
+    },
+    "contact6": {
+      "email": "minh.vu@tlu.edu.vn",
+      "name": "Vũ Đức Minh",
+      "phone": "0906789012",
+      "position": "Giảng Viên",
+      "unit": "Khoa Xây Dựng"
+    },
+    "contact7": {
+      "email": "nam.tran@tlu.edu.vn",
+      "name": "Trần Văn Nam",
+      "phone": "0907890123",
+      "position": "Trưởng Khoa",
+      "unit": "Khoa Môi Trường"
+    },
+    "contact8": {
+      "email": "lan.nguyen@tlu.edu.vn",
+      "name": "Nguyễn Thị Lan",
+      "phone": "0908901234",
+      "position": "Phó Khoa",
+      "unit": "Khoa Môi Trường"
+    },
+    "contact9": {
+      "email": "hai.le@tlu.edu.vn",
+      "name": "Lê Quang Hải",
+      "phone": "0909012345",
+      "position": "Giảng Viên Nghiên Cứu",
+      "unit": "Khoa Môi Trường"
+    }
+  },
+  "units": {
+    "unit1": {
+      "address": "Tòa C1 tầng 2,Trường Đại Học Thủy Lợi",
+      "name": "Khoa Công Nghệ Thông Tin",
+      "phone": "024-3825678"
+    },
+    "unit10": {
+      "address": "Tòa nhà A45 – Trường Đại học Thủy lợi",
+      "name": "Thư Viện",
+      "phone": "024-35630971"
+    },
+    "unit11": {
+      "address": "Tòa Học Thuật, Phòng 601-605",
+      "name": "Trung Tâm Ngoại Ngữ",
+      "phone": "024-3825688"
+    },
+    "unit12": {
+      "address": "Tòa Hành Chính, Tầng 5",
+      "name": "Phòng Tài Chính - Kế Toán",
+      "phone": "024-3825689"
+    },
+    "unit2": {
+      "address": "Tòa B, Phòng 201-205",
+      "name": "Khoa Xây Dựng",
+      "phone": "024-3825679"
+    },
+    "unit3": {
+      "address": "Tòa C, Phòng 301-305",
+      "name": "Khoa Môi Trường",
+      "phone": "024-3825680"
+    },
+    "unit4": {
+      "address": "Tòa D, Phòng 401-405",
+      "name": "Khoa Thủy Lợi",
+      "phone": "024-3825681"
+    },
+    "unit5": {
+      "address": "Tòa E, Phòng 501-505",
+      "name": "Khoa Kinh Tế",
+      "phone": "024-3825682"
+    },
+    "unit6": {
+      "address": "Tòa Hành Chính, Tầng 2",
+      "name": "Phòng Đào Tạo",
+      "phone": "024-3825683"
+    },
+    "unit7": {
+      "address": "Tòa Hành Chính, Tầng 3",
+      "name": "Phòng Quản Trị",
+      "phone": "024-3825684"
+    },
+    "unit8": {
+      "address": "Tòa Hành Chính, Tầng 4",
+      "name": "Phòng Khoa Học Công Nghệ",
+      "phone": "024-3825685"
+    },
+    "unit9": {
+      "address": "Tòa Sinh Viên, Tầng 1",
+      "name": "Phòng Công Tác Sinh Viên",
+      "phone": "024-3825686"
+    }
+  }
+}
