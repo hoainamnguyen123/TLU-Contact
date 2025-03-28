@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/tlulogo"
+        android:layout_marginBottom="24dp"
+        android:contentDescription="Logo TLU" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="TLU Contact"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#0046B8" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_unit_contacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Danh bạ Đơn vị"
+        android:textColor="#000000"
+        android:layout_marginBottom="16dp"
+        app:cornerRadius="24dp"
+        app:backgroundTint="#D8BFD8"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_employee_contacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Danh bạ CBNV"
+        android:textColor="#000000"
+        app:cornerRadius="24dp"
+        app:backgroundTint="#D8BFD8"/>
+</LinearLayout>
